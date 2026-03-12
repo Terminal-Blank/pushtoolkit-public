@@ -2,7 +2,7 @@
 
 > A self-hosted browser push notification platform for SMBs, e-commerce, and content creators.
 
-![PushToolkit Banner](https://raw.githubusercontent.com/jbrand0n/pushtoolkit/main/docs/banner.png)
+![PushToolkit Banner](https://raw.githubusercontent.com/Terminal-Blank/pushtoolkit-public/main/docs/banner.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
@@ -60,7 +60,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/jbrand0n/pushtoolkit.git
+git clone https://github.com/Terminal-Blank/pushtoolkit-public.git
 cd pushtoolkit
 
 # Copy environment file
@@ -79,7 +79,7 @@ Visit **http://localhost:3000** for the dashboard and **http://localhost:4000** 
 
 ```bash
 # Clone the repository
-git clone https://github.com/jbrand0n/pushtoolkit.git
+git clone https://github.com/Terminal-Blank/pushtoolkit-public.git
 cd pushtoolkit
 
 # Install backend dependencies
@@ -312,8 +312,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report Issues](https://github.com/jbrand0n/pushtoolkit/issues)
-- 💬 [Discussions](https://github.com/jbrand0n/pushtoolkit/discussions)
+- 🐛 [Report Issues](https://github.com/Terminal-Blank/pushtoolkit-public/issues)
+- 💬 [Discussions](https://github.com/Terminal-Blank/pushtoolkit-public/discussions)
 - 📧 Email: hello@terminalblank.com
 - 🌐 Website: [terminalblank.com](https://terminalblank.com)
 
