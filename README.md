@@ -1,13 +1,11 @@
 # PushToolkit
 
-> A self-hosted browser push notification platform for SMBs, e-commerce, and content creators.
-
-![PushToolkit Banner](https://raw.githubusercontent.com/Terminal-Blank/pushtoolkit-public/main/docs/banner.png)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-15-blue)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-success)](https://www.docker.com/)
+
+**Stop paying monthly fees for push notifications.** PushToolkit is an open-source, self-hosted browser push notification platform built for small businesses, e-commerce stores, and content creators who want to own their subscriber data and send unlimited notifications without per-message pricing. Deploy it on your own server in minutes with Docker, connect any website, and start converting visitors into subscribers — no third-party SaaS required.
 
 ## 🚀 Features
 
@@ -21,12 +19,6 @@
 - 📈 **Real-Time Stats** - Live campaign performance metrics
 - 🎨 **Customizable UI** - React-based dashboard you can brand
 - 🐳 **Docker Ready** - One-command deployment
-
-## 📸 Screenshots
-
-| Dashboard | Campaign Editor | Analytics |
-|-----------|----------------|-----------|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Editor](docs/screenshots/editor.png) | ![Analytics](docs/screenshots/analytics.png) |
 
 ## 🛠️ Tech Stack
 
